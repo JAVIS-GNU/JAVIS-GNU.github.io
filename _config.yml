@@ -11,26 +11,19 @@ subtitle: JAVIS at GNU
 
 # Side Menu Links
 menu:
-  - text: 소개
+  - text: JAVIS?
     link: /
     icon: ""
-    menu:
-      - text: 1
-        link: /
-        icon: ""
-      - text: 2
-        link: /
-        icon: ""
 
-  - text: Skills & Offers
+  - text: ...
     link: /skills-and-offers
     icon: ""
 
-  - text: Contact Me
+  - text: ...
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Q&A
     link: /resume
     icon: ""
 
