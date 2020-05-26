@@ -14,6 +14,10 @@ menu:
   - text: 소개  //Portfolio
     link: /
     icon: ""
+    menu:
+    - text: 소개  //Portfolio
+      link: /
+      icon: ""
 
   - text: Skills & Offers
     link: /skills-and-offers
