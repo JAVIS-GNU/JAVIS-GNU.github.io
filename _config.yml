@@ -11,7 +11,7 @@ subtitle: JAVIS at GNU
 
 # Side Menu Links
 menu:
-  - text: 소개  //Portfolio
+  - text: 소개
     link: /
     icon: ""
     menu:
