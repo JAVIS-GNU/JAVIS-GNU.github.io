@@ -30,7 +30,7 @@
 ### ▶ 선발 인원: ~6명
 
 
-![](http://madplayer.github.io)
-[](http://madplayer.github.io)
-@[](http://madplayer.github.io)
-@[](madplayer.github.io)
+![김창희](http://madplayer.github.io)
+[김창희](http://madplayer.github.io)
+@[김창희](http://madplayer.github.io)
+@[김창희](madplayer.github.io)
