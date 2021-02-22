@@ -37,4 +37,4 @@
 ### 권기범 <http://qja1998.github.io>
 ### 이소연 <http://l-soyeon.github.io>
 ### 정윤형 <http://bro-o.github.io>
-### 최광현 <https://choi-kwang-hyun.github.io>
+### 최광현 <http://kwang-hyun.github.io>
