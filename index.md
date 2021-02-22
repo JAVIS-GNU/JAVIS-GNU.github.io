@@ -19,7 +19,7 @@ JAVIS는 Just a Rather Very Inteligent Software의 약자로서 프로그래밍�
 #### _2019_ _박진상_
 #### _2020_ _최광현_
 
-##2020 운영진
+## 2020 운영진
 ### 최광현 <http://kwang-hyun.github.io>
 ### 이소연 <http://l-soyeon.github.io>
 
