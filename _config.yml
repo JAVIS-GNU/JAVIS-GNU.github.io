@@ -6,12 +6,12 @@ defaults:
     values:
       layout: default
 
-title: JAVIS
-subtitle: JAVIS at GNU
+title: JARVIS
+subtitle: JARVIS at GNU
 
 # Side Menu Links
 menu:
-  - text: JAVIS?
+  - text: JARVIS?
     link: /
     icon: ""
 
@@ -29,19 +29,19 @@ menu:
 
 # Socialmedia Icons
 social_icons:
-  - name: linkedin
+  - name: linkedin    //
     link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/JAVIS-GNU
+    link: https://github.com/JARVIS-GNU
     icon: fab fa-github-square
 
-  - name: facebook
+  - name: facebook  //수정해야
     link: https://www.facebook.com/christian.ezeani.cyb
     icon: fab fa-facebook-square
 
-  - name: twitter
+  - name: twitter   //수정해야
     link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
 
